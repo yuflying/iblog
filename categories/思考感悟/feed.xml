@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Flyu Blog</title>
-    <link>https://yuflying.github.io/iblog/post/</link>
-    <description>Recent content in Posts on Flyu Blog</description>
+    <title>思考感悟 on Flyu Blog</title>
+    <link>https://yuflying.github.io/iblog/categories/%E6%80%9D%E8%80%83%E6%84%9F%E6%82%9F/</link>
+    <description>Recent content in 思考感悟 on Flyu Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>Copyright (c) 2015. All rights reserved.</copyright>
     <lastBuildDate>Sun, 25 Feb 2018 00:15:00 +0800</lastBuildDate>
     
-	<atom:link href="https://yuflying.github.io/iblog/post/feed.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yuflying.github.io/iblog/categories/%E6%80%9D%E8%80%83%E6%84%9F%E6%82%9F/feed.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

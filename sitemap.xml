@@ -1,42 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://yuflying.github.io/iblog/post/first/</loc>
-    <lastmod>2018-06-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yuflying.github.io/iblog/post/2018/2018_06_24_hello/</loc>
-  </url>
-  
-  <url>
-    <loc>https://yuflying.github.io/iblog/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yuflying.github.io/iblog/feed.xml</loc>
-    <lastmod>2018-06-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yuflying.github.io/iblog/post/</loc>
-    <lastmod>2018-06-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yuflying.github.io/iblog/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yuflying.github.io/iblog/categories/%E9%9A%8F%E8%AE%B0/</loc>
-    <lastmod>2018-06-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+    <url>
+        <loc>https://yuflying.github.io/iblog/2018/06/25/my-2017/</loc>
+        <lastmod>2018-02-25T00:15:00+08:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://yuflying.github.io/iblog/about/</loc>
+        <lastmod>2015-01-01T08:55:31+08:00</lastmod>
+    </url>
+    
+    <url>
+        <loc>https://yuflying.github.io/iblog/categories/</loc>
+        <lastmod>0001-01-01T00:00:00+00:00</lastmod>
+        <priority>0</priority>
+    </url>
+    
+    <url>
+        <loc>https://yuflying.github.io/iblog/</loc>
+        <lastmod>2018-02-25T00:15:00+08:00</lastmod>
+        <priority>0</priority>
+    </url>
+    
+    <url>
+        <loc>https://yuflying.github.io/iblog/post/</loc>
+        <lastmod>2018-02-25T00:15:00+08:00</lastmod>
+        <priority>0</priority>
+    </url>
+    
+    <url>
+        <loc>https://yuflying.github.io/iblog/tags/</loc>
+        <lastmod>0001-01-01T00:00:00+00:00</lastmod>
+        <priority>0</priority>
+    </url>
+    
+    <url>
+        <loc>https://yuflying.github.io/iblog/categories/%E6%80%9D%E8%80%83%E6%84%9F%E6%82%9F/</loc>
+        <lastmod>2018-02-25T00:15:00+08:00</lastmod>
+        <priority>0</priority>
+    </url>
+    
 </urlset>

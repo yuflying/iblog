@@ -8,9 +8,7 @@
                     var target = event.currentTarget || event.target;
                     var $form = w.jQuery(target);
                     var orgVal = $form.find('.search').val();
-                    // flyu change in 2018-06-24
-                    // $form.find('.search').val('site:blog.coderzh.com/ ' + orgVal);
-                    $form.find('.search').val(orgVal);
+                    $form.find('.search').val('site:blog.coderzh.com/ ' + orgVal);
                     done = true;
                     $form.submit();
                 }
